@@ -9,7 +9,7 @@ O aplicativo restaurante da ponte foi desenvolvido em java é um projeto mobile 
 A aplicação consiste em um portifólio do restaurante que conta com coisas como o cardápio e uma descrição do local.
 
 ## Layout mobile
-![Mobile 1](https://github.com/JacoRochadev/AppRestauranteDaPonte/blob/master/Screenshot_2020-12-22-12-58-44-093_com.example.ponteapp.jpg) ![Mobile 2](https://ibb.co/8ms9mdx) ![Mobile 3](https://ibb.co/S3xH8H6) ![Mobile 4](https://ibb.co/yV57tRH)
+![Mobile 1](https://ibb.co/02DKps5) ![Mobile 2](https://ibb.co/8ms9mdx) ![Mobile 3](https://ibb.co/S3xH8H6) ![Mobile 4](https://ibb.co/yV57tRH)
 
 
 # Tecnologias utilizadas
