@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Restaurante da Ponte</string>
+    <string name="strTopoImg">Imagem do topo do app</string>
+    <string name="desenvolvido">Desenvolvido por  Jacó Rocha</string>
+    <string name="strCardapio">Cardápio</string>
+    <string name="strEquipe">Equipe</string>
+    <string name="strSobre">Sobre</string>
+    <string name="strVoltar">Voltar</string>
+    <string name="strGalinhaCaipira">Galinha Caipira</string>
+    <string name="strchurrasco">Churrasco</string>
+    <string name="strDescricao">Aqui vai a descrição</string>
+    <string name="clickVoltar">voltar</string>
+    <string name="strContato">Contato</string>
+    <string name="strWhatsapp">Whatsapp</string>
+    <string name="numWhats">+55 77 8130-5144</string>
+    <string name="strNumTell">+55 77 99187-3476</string>
+    <string name="strSobreoRestaurante">O Restaurante da ponte tem mais de 30 anos que proporciona uma refeição caseira serve o simples,
+        mas saboroso. Tem temperos, cheiros e sabores que lembram a cozinha da avó,e esses locais são cheios de amor.
+        No local são servidos como pratos  principais galinha caipira cozida e churrasco,tudo feito na hora. </string>
+    <string name="strValorGalinha">25,00 R$ P/pessoa</string>
+    <string name="strValorChurrasco">25,00 R$ P/pessoa</string>
+</resources>
