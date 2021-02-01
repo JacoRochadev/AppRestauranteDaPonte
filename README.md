@@ -23,4 +23,4 @@ Pré-requisitos: android:7.0
 
 Jacó Rocha Fernandes
 
-https://www.linkedin.com/in/jac%C3%B3-rocha-fernandes-4839a71b0/
+[Linkedin](https://www.linkedin.com/in/jac%C3%B3-rocha-fernandes-4839a71b0/)
