@@ -15,7 +15,7 @@ A aplicação consiste em um portifólio do restaurante que conta com coisas com
 # Tecnologias utilizadas
 ## Back end
 - Java
-## Front end
+## Linguagem de marcação
 - XML
 ## Back end
 Pré-requisitos: android:7.0
