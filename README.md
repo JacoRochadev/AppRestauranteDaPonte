@@ -17,7 +17,7 @@ A aplicação consiste em um portifólio do restaurante que conta com coisas com
 - Java
 ## Linguagem de marcação
 - XML
-## Back end
+## Requisitos
 Pré-requisitos: android:7.0
 # Autor
 
